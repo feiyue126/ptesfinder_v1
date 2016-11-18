@@ -1,0 +1,2 @@
+#!/bin/sh
+bedtools bed12tobed6 "$@"
